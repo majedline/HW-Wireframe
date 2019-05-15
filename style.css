@@ -1,0 +1,45 @@
+
+header {
+    background-color: #ebebeb;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid white;
+    width:960px;
+  }
+
+  .navigation {
+    background-color: #ebebeb;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid white;
+    width:960px;
+   }
+
+   .section{
+    background-color: #ebebeb;
+    width:495px;
+    padding: 10px;
+    border: 1px solid white;
+    float:left; 
+   }
+
+  aside {
+    background-color: #ebebeb;
+    width: 465px;
+    padding: 10px;
+    border: 1px solid white;
+    float:left;
+   }
+  
+  
+  footer {
+    background-color: #ebebeb;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid white;
+    width:960px;
+
+  }
+
+ 
+  
